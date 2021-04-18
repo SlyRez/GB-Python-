@@ -1,0 +1,7 @@
+n = int(input())
+nn = int(str(n)+str(n))
+nnn = int(str(n)+str(n)+str(n))
+print(n)
+print(nn)
+print(nnn)
+print(n + nn + nnn)

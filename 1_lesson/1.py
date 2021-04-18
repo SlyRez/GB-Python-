@@ -1,0 +1,16 @@
+
+print('Welcom Comander!')
+print('Press Login')
+a = input()
+print('Press Pass')
+b = input()
+print('Логин: ', a)
+print('Пароль: ', b)
+print('Log Pass accepted')
+print('Сколько солдат в дивизии №1?')
+div_1 = int(input())
+print('Сколько солдат в дивизии №2?')
+div_2 = int(input())
+print('Всего бойцов:')
+div = div_1 + div_2
+print(div)
